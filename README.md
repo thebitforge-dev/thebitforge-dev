@@ -1,83 +1,72 @@
-<h1 align="center">👋 Welcome to TheBitForge!</h1>
 <p align="center">
-  <strong>Your One-Stop Agency for Web Development, Design, AI, and Digital Marketing</strong>
+  <img width="200" src="https://raw.githubusercontent.com/thebitforge-dev/thebitforge-dev/main/logo.png" alt="TheBitForge Logo" />
+</p>
+
+<h1 align="center">👋 Hello, I'm <b>TheBitForge</b></h1>
+<p align="center">
+  <strong>A Creative Digital Agency | Web & WordPress Development | AI Automations | Graphics & Ads</strong>
 </p>
 
 <p align="center">
-  <a href="mailto:thebitforge.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thebitforge.dev@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="tel:+923181281792">
-    <img src="https://img.shields.io/badge/Call-+92 318 1281792-blue?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
-  </a>
-  <a href="https://dev.to/thebitforge">
-    <img src="https://img.shields.io/badge/Blog-Dev.to-0a0a0a?style=flat-square&logo=dev.to&logoColor=white" alt="Dev.to Blog Badge"/>
-  </a>
-  <a href="https://x.com/thebitforge_dev">
-    <img src="https://img.shields.io/badge/X-@thebitforge_dev-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-  <a href="https://instagram.com/thebitforge.dev">
-    <img src="https://img.shields.io/badge/Instagram-@thebitforge.dev-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  <!-- Contact Badges -->
+  <a href="mailto:thebitforge.dev@gmail.com"><img src="https://img.shields.io/badge/Email-thebitforge.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="tel:+923181281792"><img src="https://img.shields.io/badge/Phone-+92%20318%201281792-25A65A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://thebitforge-eta.vercel.app"><img src="https://img.shields.io/badge/Website-thebitforge-000?style=for-the-badge&logo=webflow" alt="Website"></a>
 </p>
 
 ---
 
-## 🚀 About Us
-**TheBitForge** is a full-service digital agency offering professional solutions in:
+## 🛠 What We Offer
 
-- 🌐 **Website Development** – Frontend & Full Stack
-- 🖌 **Graphics Designing** – Creative social posts, branding
-- ⚡ **AI Automations** – Smart workflows & productivity tools
-- 📈 **Google & Meta Ads** – Effective digital marketing campaigns
-- 💻 **WordPress Website Development** – Custom & responsive websites
-
-Check out our **web projects** in our [GitHub repositories](https://github.com/TheBitForge).
+🎯 **Full-Stack & WordPress Website Development**  
+🎨 **Graphics Designing & Branding**  
+🤖 **AI Automations & Boosted Workflows**  
+📈 **Google & Meta Ads Services**  
+📌 **Professional Digital Solutions for Businesses**
 
 ---
 
-## 💼 Our Services
+## 🌐 Connect & Explore
 
-| Service | Description |
-|---------|-------------|
-| **Web Development** | Full-stack, responsive, and modern websites using HTML, CSS, JS, React, Node.js, and more. |
-| **WordPress Websites** | Beautiful and professional WordPress solutions tailored for businesses and individuals. |
-| **Graphics Designing** | Stunning visuals for social media, branding, banners, and posts. Check our Instagram [@thebitforge.dev](https://instagram.com/thebitforge.dev). |
-| **AI Automations** | Automate repetitive tasks with smart AI solutions. |
-| **Digital Marketing** | Google Ads & Meta Ads campaigns to grow your brand online. |
+<p align="center">
+  <a href="https://instagram.com/thebitforge.dev"><img src="https://img.shields.io/badge/Instagram-@thebitforge.dev-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/thebitforge_dev"><img src="https://img.shields.io/badge/X-@thebitforge_dev-1DA1F2?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://dev.to/thebitforge"><img src="https://img.shields.io/badge/Dev.to-thebitforge-0a0a0a?style=flat-square&logo=dev.to&logoColor=white"></a>
+</p>
 
 ---
 
-## 🔗 Connect With Us
+## 📊 GitHub Stats
 
-- 📧 Email: [thebitforge.dev@gmail.com](mailto:thebitforge.dev@gmail.com)  
-- 📞 Phone/WhatsApp: [+92 318 1281792](tel:+923181281792)  
-- 🌐 Instagram: [@thebitforge.dev](https://instagram.com/thebitforge.dev)  
-- ✍️ Blog: [Dev.to/thebitforge](https://dev.to/thebitforge)  
-- 🐦 X: [@thebitforge_dev](https://x.com/thebitforge_dev)
+<!-- Reliable dynamic stats card -->
+![GitHub Stats Card](https://ghstats.dev/api/card?username=thebitforge-dev&theme=tokyonight)
 
 ---
 
-## 🏆 GitHub Stats
+## 💡 Quick Highlights
 
-![TheBitForge GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBitForge&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBitForge&layout=compact&theme=radical)
-
----
-
-## 📈 Visitors Analytics
-
-![Visitor Count](https://profile-counter.glitch.me/TheBitForge/count.svg)
+<p align="center">
+  <!-- Simple dynamic shields badges -->
+  <img src="https://img.shields.io/github/followers/thebitforge-dev?color=blue&logo=github&style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/thebitforge-dev?color=yellow&logo=github&style=flat-square" alt="Stars" />
+  <img src="https://img.shields.io/github/repos-per-language/thebitforge-dev?color=informational&style=flat-square" alt="Languages" />
+</p>
 
 ---
 
-## ✨ Fun Badges
+## 📌 Featured Projects
 
-![Website](https://img.shields.io/badge/Website-GitHub-blue?style=for-the-badge&logo=github) 
-![Creative](https://img.shields.io/badge/Creative-Design-brightgreen?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Automation-orange?style=for-the-badge&logo=artificial-intelligence)
+Feel free to pin your best repositories — like your website projects, AI tools, or templates — so visitors see them right away.
 
 ---
 
-<p align="center">Built with ❤️ by <strong>TheBitForge</strong></p>
+## 🚀 Let's Build Together
+
+Whether you need a dynamic website, automation solutions, eye‑catching graphics, or smart ads setup — shoot a message anytime.
+
+📫 **Email:** thebitforge.dev@gmail.com  
+📞 **Call/WhatsApp:** +92 318 1281792
+
+---
+
+<p align="center">✨ Powered by TheBitForge — Crafting digital experiences that shine ✨</p>
