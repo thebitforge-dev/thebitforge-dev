@@ -2,6 +2,7 @@
   <img width="180" src="https://raw.githubusercontent.com/thebitforge-dev/thebitforge-dev/main/logo.png" alt="TheBitForge Logo" />
 </p> -->
 
+
 <h1 align="center">👋 Welcome to TheBitForge</h1>
 <p align="center">
   <strong>Your Partner in Digital Excellence | Web Development | AI Automation | Graphics & Marketing</strong>
@@ -72,7 +73,6 @@ Stay connected and explore our work:
 ## 📊 GitHub Stats
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=thebitforge-dev&theme=tokyonight)
-![Top Languages](https://ghstats.dev/api/top-langs/?username=thebitforge-dev&theme=tokyonight)
 
 ---
 
