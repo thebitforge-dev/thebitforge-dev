@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img width="180" src="https://raw.githubusercontent.com/thebitforge-dev/thebitforge-dev/main/logo.png" alt="TheBitForge Logo" />
-</p>
+</p> -->
 
 <h1 align="center">👋 Welcome to TheBitForge</h1>
 <p align="center">
